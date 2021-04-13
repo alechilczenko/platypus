@@ -7,7 +7,7 @@ I will add gorutines in the future, for scanning multiple hosts and some another
 ![Screenshot](https://img.shields.io/badge/License-GPL-red)
 ![Screenshot](https://img.shields.io/badge/Language-Go-blue)
 
-![Screenshot](/Screenshots/screenshot.png)
+![Screenshot](/Screenshots/screen2.png)
 ## Installation
 ```bash
 git clone https://github.com/intrackeable/Platypus-Scanner.git
