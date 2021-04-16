@@ -1,7 +1,7 @@
 # Platypus
 This is my small project, that I created while I'm learning Go programming language. It's a simple TCP port scanner with two modes. The first mode (TOP-PORTS) scan only 1000 most used ports, and the second mode (ALL-PORTS) scan 65535 existing ports.
 
-This tool is only for educational purposes and fun, works good for perform scans in vulnerable virtual machines. Don't expect good results  real hosts over the net.
+This tool is only for educational purposes and fun, works good for perform scans in vulnerable virtual machines. Don't expect good results with real hosts over the net.
 
 I will add gorutines in the future, for scanning multiple hosts and some another features.
 
