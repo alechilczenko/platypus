@@ -3,8 +3,6 @@ This is my small project, that I created while I'm learning Go programming langu
 
 This tool is only for educational purposes and fun, works good for perform scans in vulnerable virtual machines. Don't expect good results with real hosts over the net.
 
-I will add gorutines in the future, for scanning multiple hosts and some another features.
-
 ![Screenshot](https://img.shields.io/badge/Platform-Linux-brightgreen)
 ![Screenshot](https://img.shields.io/badge/License-GPL-red)
 ![Screenshot](https://img.shields.io/badge/Language-Go-blue)
