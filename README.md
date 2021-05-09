@@ -14,6 +14,7 @@ git clone https://github.com/intrackeable/Platypus-Scanner.git
 cd Platypus-Scanner
 ./Platypus
 ```
+![Screenshot](/Screenshots/CAP1.png)
 ## Example of usage
 
 ```go
